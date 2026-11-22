@@ -1,0 +1,6 @@
+{
+  "name": "spotDL Studio",
+  "description": "Modern Windows desktop client for spotDL — download Spotify tracks, albums, and playlists with embedded album art, ID3 metadata, and synced LRC lyrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
